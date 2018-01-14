@@ -1,0 +1,13 @@
+.jumbotron h1 {
+  font-size: 32px;
+    color:white;
+}
+
+.jumbotron h2 {
+  font-size: 26px;
+  color:white;
+}
+
+.jumbotron {
+  background-color: grey;
+}
